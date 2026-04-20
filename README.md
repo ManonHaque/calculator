@@ -1,5 +1,5 @@
 # Project Name
-This is a simple calculator I've created to learn Javascript
+This is a simple calculator I've created to learn Javascript ( without eval() function)
 
 # Features 
 1. Add multiple number
@@ -13,6 +13,4 @@ This is a simple calculator I've created to learn Javascript
 - CSS
 - Javascript
 
-# Caution
-I've used eval() function just for learning purpose . Eval() function can create some major security issues . 
 
